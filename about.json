@@ -6,9 +6,9 @@
   "modifiers": {
     "serialize_topic_excerpts": true
   },
-  "name": "Air Theme",
+  "name": "LNF Theme",
   "color_schemes": {
-    "air-light": {
+    "LNF colors": {
       "primary": "1c1c1c",
       "secondary": "F9FCFF",
       "tertiary": "3877e5",
