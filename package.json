@@ -1,6 +1,5 @@
 {
-  "author": "Jordan Vidrine",
-  "license": "MIT",
+  "author": "Mathis Klatt",
   "devDependencies": {
     "eslint-config-discourse": "latest"
   }
