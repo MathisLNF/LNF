@@ -357,8 +357,10 @@ html body #main-outlet {
         a.title:not(.badge-notification),
         a.topic-excerpt {
           color: var(--primary) !important;
-          display: none;
         }
+      }
+      .topic-list .topic-excerpt {
+        display: block;
       }
       .topic-list-data.main-link {
         width: 63%;
