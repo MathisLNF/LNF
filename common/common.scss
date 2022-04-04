@@ -357,6 +357,7 @@ html body #main-outlet {
         a.title:not(.badge-notification),
         a.topic-excerpt {
           color: var(--primary) !important;
+          display: none;
         }
       }
       .topic-list-data.main-link {
