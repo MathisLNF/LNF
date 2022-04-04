@@ -359,9 +359,6 @@ html body #main-outlet {
           color: var(--primary) !important;
         }
       }
-      .topic-list .topic-excerpt {
-        display: none;
-      }
       .topic-list-data.main-link {
         width: 63%;
         order: 2;
@@ -398,6 +395,9 @@ html body #main-outlet {
 .topic-list-data.num.views {
   display: none;
 }
+.topic-list .topic-excerpt {
+        display: none;
+      }
 
 .full-width .contents .topic-list .topic-list-item .posters a:first-of-type {
   margin-right: 4px;
