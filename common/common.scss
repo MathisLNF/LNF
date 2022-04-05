@@ -393,15 +393,15 @@ html body #main-outlet {
   }
 }
 
-/*.topic-list-data.num.views {
+.topic-list-data.num.views {
   display: none;
-}*/
-.topic-list .num {
+}
+/*.topic-list .num {
     order: 3;
     display: flex;
     justify-content: center;
     align-items: center;
-}
+}*/
 .topic-list .topic-excerpt {
         display: none;
       }
