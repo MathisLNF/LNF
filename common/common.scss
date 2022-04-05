@@ -397,6 +397,9 @@ html body #main-outlet {
 }*/
 .topic-list .num {
     order: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .topic-list .topic-excerpt {
         display: none;
