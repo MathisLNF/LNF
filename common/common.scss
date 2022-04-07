@@ -261,7 +261,10 @@ html body #main-outlet {
   margin-bottom: 50px;
   background:  var(--secondary);
   border-radius: 1em;
-  padding: 3em 3em 5%;
+  //padding: 3em 3em 5%;
+  padding-top: 0em;
+  padding-right: 3em;
+  padding-left: 3em;
   max-width: 1150px;
   .archetype-regular & {
     min-height: 500px;
