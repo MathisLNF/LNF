@@ -538,3 +538,9 @@ html body #main-outlet {
   font-family: 'Montserrat';
   font-size: 0.95em;
 }
+.topic-list .badge-notification {
+    top: -6px;
+}
+.badge-notification.unread-posts {
+    background-color: red;
+}
