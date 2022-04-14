@@ -361,7 +361,7 @@ html body #main-outlet {
         border: 1px solid rgba(var(--primary-rgb), 0.3);
         a.title:not(.badge-notification),
         a.topic-excerpt {
-          color: var(--primary) !important;
+          color: var(--tertiary) !important;
         }
       }
       .topic-list-data.main-link {
