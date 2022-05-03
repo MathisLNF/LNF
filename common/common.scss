@@ -99,11 +99,11 @@
   font-size: $font-down-1;
   border-radius: 0.25em;
   padding: 0.15em 0.25em 0.15em 0.35em;
-  background-color: var(--primary-low);
+  background-color: var(--tertiary-low);
   color: var(--primary) !important;
   &:hover {
-    background-color: var(--primary-low-mid);
-    color: var(--primary);
+    background-color: var(--tertiary-low-mid);
+    color: var(--tertiary);
   }
 }
 
