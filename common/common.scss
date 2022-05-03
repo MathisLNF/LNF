@@ -540,6 +540,10 @@ html body #main-outlet {
   width: 100%;
   display: inline-block;
   //font-weight: bold;
+  &:hover {
+    background-color: var(--primary-low-mid);
+    color: var(--tertiary);
+  }
 }
 .topic-list .badge-notification {
     top: -6px;
