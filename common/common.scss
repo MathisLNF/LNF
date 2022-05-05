@@ -544,9 +544,9 @@ html body #main-outlet {
   display: inline-block;
   //font-weight: bold;
   &:hover {
-    background-color: var(--primary-low-mid);
-    border-radius: 4em;
-    color: var(--tertiary);
+    background-color: var(--tertiary);
+    border-radius: 1em;
+    color: white;
   }
 }
 .topic-list .badge-notification {
