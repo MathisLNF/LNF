@@ -94,7 +94,9 @@
     }
   }
 }
-
+.custom-category-boxes:not(.above-discovery-categories-outlet) .category-box .category-box-inner .category-logo.no-logo-present .category-abbreviation {
+  display: none;
+}
 .discourse-tag {
   font-size: $font-down-1;
   border-radius: 1.5em;
