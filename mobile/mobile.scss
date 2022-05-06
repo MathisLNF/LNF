@@ -88,6 +88,14 @@ ol.category-breadcrumb {
   max-width: unset;
 }
 
+.full-width .contents .topic-list .topic-list-body .topic-list-item .topic-list-data.age {
+    width: 15%;
+    order: 4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .custom-search-banner-wrap .search-context {
   top: 2.5em !important;
 }
