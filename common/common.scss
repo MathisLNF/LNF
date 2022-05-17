@@ -268,7 +268,7 @@ html body #main-outlet {
   .archetype-regular & {
     min-height: 500px;
   }
-  @media screen and (max-width: 700px) {
+  /*@media screen and (max-width: 700px) {
     padding: 1.5em;
     margin-top: 0;
   }
@@ -279,7 +279,7 @@ html body #main-outlet {
   }
   @media screen and (max-width: 1075px) {
     width: 85%;
-  }
+  }*/
 }
 
 .nav-pills > li a.active,
