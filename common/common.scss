@@ -165,6 +165,9 @@ div.ac-wrap {
     font-size: 1.25em;
     color: var(--header_primary);
     opacity: 0.8;
+      &:hover {
+      color: var(--primary-low-mid);
+    }
   }
 }
 
