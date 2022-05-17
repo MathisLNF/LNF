@@ -533,14 +533,14 @@ html body #main-outlet {
   border-radius: 0.5em;
 }
 .custom-header-links .headerLink a {
-  font-family: 'Poppins';
+  font-family: 'Montserrat';
   text-align : center;
   font-size: 0.98em;
   width: 100%;
   display: inline-block;
   //font-weight: bold;
   &:hover {
-    color: var(--header_primary);
+    color: var(--primary-very-low);
   }
 }
 .topic-list .badge-notification {
