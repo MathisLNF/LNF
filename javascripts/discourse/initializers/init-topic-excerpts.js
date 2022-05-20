@@ -6,6 +6,4 @@ export default apiInitializer("0.8", api => {
     expandPinned: true
   })
 })
-<script type="text/discourse-plugin" version="0.12.3">
-    api.changeWidgetSetting('home-logo', 'href', 'figma.com')
-</script>
+
