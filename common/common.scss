@@ -546,6 +546,9 @@ html body #main-outlet {
   &:hover {
     color: var(--primary-low-mid);
   }
+  @media screen and (max-width: 780px) {
+    font-size: 14px;
+  }
 }
 .topic-list .badge-notification {
     top: -6px;
