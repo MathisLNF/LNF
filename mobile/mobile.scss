@@ -19,7 +19,7 @@ html
   background-color: transparent;
 }
 
-/*html body.static-tos #main-outlet,
+html body.static-tos #main-outlet,
 html body.static-privacy #main-outlet,
 html body.about-page #main-outlet,
 html body.static-faq #main-outlet,
@@ -38,11 +38,11 @@ html body.staff:not(.navigation-topics) #main-outlet {
   width: calc(100% - 2.5em);
   background-color: var(--secondary);
   margin-bottom: 0px;
-}*/
-
-.container.posts > .row {
-  max-width: calc(100vw - 1.25em);
 }
+
+/*.container.posts > .row {
+  max-width: calc(100vw - 1.25em);
+}*/
 
 .navigation-categories .navigation-container,
 .categories-list .navigation-container {
