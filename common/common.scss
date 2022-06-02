@@ -571,6 +571,10 @@ html body #main-outlet {
 li.activity.read {
   display: none;
 }
+
+[class|="widget-link"] {
+  color:red
+}
 .search-menu .browser-search-tip, .search-menu .search-random-quick-tip {
   display: none;
 }
